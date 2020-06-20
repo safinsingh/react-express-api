@@ -51,9 +51,9 @@ GitHub: [safinsingh](https://github.com/safinsingh) <br>
 Dribbble: [Safin Singh](https://dribbble.com/safinsingh/) <br>
 YouTube: [Safin Singh](https://www.youtube.com/channel/UCvb01sUdAgcPAG1j0SLxAtA) <br><br>
 
-Play Store: [Rohan Juneja](https://play.google.com/store/apps/developer?id=Rohan+Juneja)
-DevPost: [Rohan Juneja](https://devpost.com/rohanj2006)
-GitHub: [Rohan Juneja](https://github.com/rjawesome)
+Play Store: [Rohan Juneja](https://play.google.com/store/apps/developer?id=Rohan+Juneja) <br>
+DevPost: [Rohan Juneja](https://devpost.com/rohanj2006) <br>
+GitHub: [Rohan Juneja](https://github.com/rjawesome) <br>
 
 ## 🤝 Contributing
 

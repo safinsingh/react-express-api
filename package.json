@@ -1,0 +1,23 @@
+{
+  "name": "stack",
+  "version": "1.0.0",
+  "description": "Create, share, and communicate with other developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RGBHack/Stack.git"
+  },
+  "author": "safinsingh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RGBHack/Stack/issues"
+  },
+  "homepage": "https://github.com/RGBHack/Stack#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

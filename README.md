@@ -49,7 +49,7 @@ cd client && npm start
 Linkedin: [Safin Singh](https://www.linkedin.com/in/safin-singh-b2630918a/) <br>
 GitHub: [safinsingh](https://github.com/safinsingh) <br>
 Dribbble: [Safin Singh](https://dribbble.com/safinsingh/) <br>
-YouTube: [Safin Singh](https://www.youtube.com/channel/UCvb01sUdAgcPAG1j0SLxAtA) <br><br>
+YouTube: [Safin Singh](https://www.youtube.com/channel/UCvb01sUdAgcPAG1j0SLxAtA) <br>
 
 Play Store: [Rohan Juneja](https://play.google.com/store/apps/developer?id=Rohan+Juneja) <br>
 DevPost: [Rohan Juneja](https://devpost.com/rohanj2006) <br>

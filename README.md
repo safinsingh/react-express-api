@@ -53,7 +53,7 @@ YouTube: [Safin Singh](https://www.youtube.com/channel/UCvb01sUdAgcPAG1j0SLxAtA)
 
 ## 🤝 Contributing
 
-Contributions, PRs, issues and feature requests are welcome! Feel free to check out our [issues page](https://github.com/safinsingh/react-express-api/issues).
+Contributions, PRs, issues and feature requests are welcome! Feel free to check out the [issues page](https://github.com/safinsingh/react-express-api/issues).
 
 ## ❤️ Show your support
 

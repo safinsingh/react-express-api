@@ -9,12 +9,12 @@
 </h3>
 
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  <img alt="Made with TypeScript" src="https://img.shields.io/badge/Built%20with-TypeScript-blue" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0-red.svg" />
+  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-orange.svg" />
+  <img alt="Made with TypeScript" src="https://img.shields.io/badge/Built%20with-TypeScript-yellow" />
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
-  <img alt="Maintained" src="https://img.shields.io/badge/Maintained-Yes-orange">
-  <img alt="awesome" src="https://img.shields.io/badge/awesome-yes-blue">
+  <img alt="Maintained" src="https://img.shields.io/badge/Maintained-Yes-blue">
+  <img alt="awesome" src="https://img.shields.io/badge/awesome-yes-purple">
 </p>
 
 <hr>
